@@ -4,7 +4,7 @@
 # Modo de uso
 Este es un ejemplo reproducible y listo para probar. Para hacerlo, simplemente:
 
-1. [Comparte tu impresora](http://www.google.com)
+1. [Instala y comparte tu impresora](https://parzibyte.me/blog/2017/12/11/instalar-impresora-termica-generica/)
 2. [Descarga](https://github.com/parzibyte/imprimir_ticket_php/archive/master.zip) o clona este repositorio
 3. Colócalo en tu servidor web, si usas [XAMPP](https://parzibyte.me/blog/2017/12/11/configurar-instalar-php-7-apache-server-mysql-windows/) entonces es en htdocs
 4. Cambia el nombre de la impresora en `index.php`
